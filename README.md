@@ -57,27 +57,6 @@ Streamlit will open at `http://localhost:8501`
 
 ---
 
-## Resume bullet (use this once built)
 
-> Built and deployed InsightNarrator — an agentic BI dashboard that auto-generates plain-English explanations for data trends and anomalies using Claude API — reducing time-to-insight for non-technical stakeholders from hours to under 2 minutes across datasets of 50K+ rows.
 
----
 
-## Project structure
-
-```
-InsightNarrator/
-├── app.py            # Main Streamlit application
-├── requirements.txt  # Python dependencies
-└── README.md         # This file
-```
-
----
-
-## Next steps to extend this project
-
-- [ ] Connect to a live SQL database instead of CSV upload
-- [ ] Add anomaly detection (flag unusual data points automatically)
-- [ ] Export AI explanations as a PDF report
-- [ ] Add multi-chart comparison mode
-- [ ] Deploy to Streamlit Cloud (free hosting)
