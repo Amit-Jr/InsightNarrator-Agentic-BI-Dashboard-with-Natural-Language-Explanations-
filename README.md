@@ -1,6 +1,5 @@
 # InsightNarrator
 ### Agentic BI Dashboard with Natural Language Explanations
-*Built by Amit A · IIT Ropar M.Tech AI*
 
 ---
 
